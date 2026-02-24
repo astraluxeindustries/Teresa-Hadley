@@ -1,20 +1,24 @@
 import { Review, NavLink, ServiceItem } from './types';
 
 export const BUSINESS_INFO = {
-  name: "Desiree Contessa",
-  title: "Mortgage Consultant",
-  nmls: "2531460",
-  company: "Patriot Home Mortgage",
+  name: "Teresa Hadley",
+  title: "Intercap Lending",
+  nmls: "246988",
+  company: "Intercap Lending",
   companyNmls: "715386",
   address: "619 S Bluff St Tower 2 Suite 1B, St. George, UT 84770",
   phone: "(425) 876-3025",
-  email: "desiree.contessa@patriothomemortgage.com",
+  email: "teresa@intercaplending.com",
   hours: "Open 24 hours",
-  bio: `After working for other financial institutions, I really believe that Patriot Home Mortgage offers most comprehensive service with the best products, knowledge, and resources to its customers. Being the only locally owned Mortgage Bank in Southern Utah, Patriot Home Mortgage has always strived to be community focused.
+  bio: `With more than three decades in the mortgage industry, Teresa Hadley brings seasoned expertise, steady guidance, and an unwavering commitment to her clients. Since beginning her career in 1993, she has helped hundreds of families navigate the complexities of home financing with clarity and confidence.
 
-My goal is to provide all my clients excellent customer service, education, and mentoring in every step of their mortgage process. With over 20 years' experience working in banking & finance, being a mortgage loan originator is something she is truly excited about.
+Teresa specializes in a comprehensive range of loan programs, including Conventional, FHA, USDA, and first-time homebuyer solutions. Her depth of experience allows her to anticipate challenges before they arise and structure loans strategically to create smooth, successful closings. Realtors and clients alike value her proactive communication, attention to detail, and ability to keep transactions on track from application through funding.
 
-Desiree received a bachelor's degree in business accounting and a minor in cultural studies from Central Washington University. "I look forward to making many great relationships throughout the greater Southern Utah and working through the complexities of today's Mortgage Banking environment."`,
+What sets Teresa apart is her client-first philosophy. She understands that a mortgage is more than a financial transaction. It is a pivotal life decision. Her approach combines technical precision with genuine care, ensuring each borrower feels informed, supported, and empowered throughout the process.
+
+Licensed in Utah, Teresa continues to serve her community with integrity and professionalism. Outside of work, she enjoys spending time outdoors with her husband and three children or relaxing with a good book.
+
+For Teresa, mortgage lending is not simply about securing financing. It is about helping families build stability, opportunity, and a place to call home."`,
 };
 
 export const NAV_LINKS: NavLink[] = [
@@ -42,7 +46,7 @@ export const REVIEWS: Review[] = [
   },
   {
     id: 3,
-    author: "Southern Utah Client",
+    author: "Cottonwood Heights Client",
     rating: 5,
     text: "Professional, knowledgeable, and always available to answer our questions. Highly recommended.",
     source: "Google"
