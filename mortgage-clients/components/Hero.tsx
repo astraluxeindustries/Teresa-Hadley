@@ -31,7 +31,7 @@ export const Hero: React.FC = () => {
             <span className="italic text-gray-200">into reality.</span>
           </h1>
           <p className="text-lg text-gray-200 mb-10 max-w-lg font-light leading-relaxed">
-            With over 20 years of experience, Desiree Contessa provides the comprehensive service and education you deserve for your home buying journey.
+            With over 30 years of experience, Teresa Hadley provides the comprehensive service and education you deserve for your home buying journey.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Button href="tel:+14258763025">
